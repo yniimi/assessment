@@ -1,0 +1,15 @@
+body {
+    background-color: #00A4EE;
+    color: #FDFFFF;
+    width: 500px;
+    margin: auto;
+}
+#assessment {
+    padding: 5px 20px;
+    background-color: #2E78B9;
+    color: #FDFFFF;
+    border-style: none;
+}
+#user-name {
+    padding: 5px 20px;
+}
